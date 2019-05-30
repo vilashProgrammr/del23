@@ -1,1 +1,4 @@
-{"mainfile":"StringReverse.java"}
+{"mainfile":"StringReverse.java",
+"compilemenucommand":"javac StringReverse.java",
+"runmenucommand":"java StringReverse"
+}
